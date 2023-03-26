@@ -2,4 +2,7 @@
 - Es muy de noche para que ande 
 - ¿ necesita que lo ayude en algo?
 
-["dialogoNPC-SI"]
+
+ [ "dialogoNPC-SI" , "dialogoNPC-NO" ]
+
+
